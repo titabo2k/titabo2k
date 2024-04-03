@@ -24,4 +24,15 @@ Here are some ideas to get you started:
 ### Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 29 March 2024 - To: 02 April 2024
+
+Total Time: 26 mins
+
+Python     10 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.73 %
+Markdown   10 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.77 %
+YAML       4 mins          ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.51 %
+```
+
 <!--END_SECTION:waka-->
