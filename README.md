@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Social
+
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109327964185632932?domain=https%3A%2F%2Ffosstodon.org&style=social&logoColor=black)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
